@@ -1,6 +1,6 @@
-=== WP Bulk Plugin Installer ===
+=== Drag Drop Bulk Installer ===
 Contributors: arunadaybasu
-Tags: plugin, installer, bulk, drag-drop, upload, admin, management
+Tags: installer, bulk, drag-drop, upload, admin
 Requires at least: 5.0
 Tested up to: 6.8
 Requires PHP: 7.4
@@ -8,11 +8,11 @@ Stable tag: 1.0
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
-Drag and drop multiple plugin ZIP files onto WordPress admin pages to install them instantly with a beautiful progress bar interface.
+Drag and drop multiple ZIP files onto WordPress admin pages to install them instantly with a beautiful progress bar interface.
 
 == Description ==
 
-WP Bulk Plugin Installer revolutionizes the way you install WordPress plugins by allowing you to drag and drop multiple plugin ZIP files directly onto your WordPress admin pages. No more tedious one-by-one installations!
+Drag Drop Bulk Installer revolutionizes the way you install WordPress extensions by allowing you to drag and drop multiple ZIP files directly onto your WordPress admin pages. No more tedious one-by-one installations!
 
 = Key Features =
 
@@ -29,7 +29,7 @@ WP Bulk Plugin Installer revolutionizes the way you install WordPress plugins by
 
 1. Navigate to **Plugins > Installed Plugins** or **Plugins > Add New**
 2. Look for the blue drop zone in the bottom-right corner
-3. Drag one or more plugin ZIP files onto any part of the page
+3. Drag one or more ZIP files onto any part of the page
 4. Watch the progress bar as plugins install automatically
 5. Receive notifications for each plugin's installation status
 6. Page automatically refreshes to show your new plugins
@@ -54,7 +54,7 @@ WP Bulk Plugin Installer revolutionizes the way you install WordPress plugins by
 = Automatic Installation =
 
 1. Go to **Plugins > Add New** in your WordPress admin
-2. Search for "WP Bulk Plugin Installer"
+2. Search for "Drag Drop Bulk Installer"
 3. Click **Install Now** and then **Activate**
 
 = Manual Installation =
@@ -66,18 +66,18 @@ WP Bulk Plugin Installer revolutionizes the way you install WordPress plugins by
 
 = From Source =
 
-1. Upload the `wp-bulk-plugin-installer` folder to `/wp-content/plugins/`
+1. Upload the `drag-drop-bulk-installer` folder to `/wp-content/plugins/`
 2. Activate the plugin through the **Plugins** menu in WordPress
 
 == Frequently Asked Questions ==
 
-= Does this work with all plugin ZIP files? =
+= Does this work with all ZIP files? =
 
 Yes, any standard WordPress plugin ZIP file will work. The plugin validates file types and only accepts ZIP files for security.
 
 = Can I install premium/commercial plugins? =
 
-Absolutely! As long as you have the ZIP file, you can install any WordPress plugin, including premium themes and plugins.
+Absolutely! As long as you have the ZIP file, you can install any WordPress plugin, including premium plugins.
 
 = What happens if a plugin fails to install? =
 
@@ -121,17 +121,17 @@ The plugin respects WordPress multisite permissions. You need the appropriate ca
 == Upgrade Notice ==
 
 = 1.0 =
-Initial release of WP Bulk Plugin Installer. Install to start using drag and drop plugin installation!
+Initial release of Drag Drop Bulk Installer. Install to start using drag and drop installation!
 
 == Development ==
 
-This plugin is actively developed and maintained on GitHub: https://github.com/arunadaybasu/wp-bulk-plugin-installer
+This plugin is actively developed and maintained on GitHub: https://github.com/arunadaybasu/drag-drop-bulk-installer
 
 Feature requests and bug reports are welcome.
 
 = Contributing =
 
-* View source code and contribute on GitHub: https://github.com/arunadaybasu/wp-bulk-plugin-installer
+* View source code and contribute on GitHub: https://github.com/arunadaybasu/drag-drop-bulk-installer
 * Report bugs and suggest features on the support forum
 * Submit pull requests for code improvements
 * Help translate the plugin into other languages
